@@ -1,0 +1,1 @@
+## Some chars for logs
